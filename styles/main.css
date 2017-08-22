@@ -23,7 +23,8 @@ section h2 {
 	font-size: 1.25em;
 }
 
-#skills .row .col {
+#skills .row {
+	text-align: center;
 	font-size: 10em;
 }
 
