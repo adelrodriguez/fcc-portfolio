@@ -23,18 +23,7 @@ section h2 {
 	font-size: 1.25em;
 }
 
-#skills ul {
-	list-style-type: none;
-	display: inline-block;
-	margin: 0 auto;
-}
-
-#skills ul li {
-	float: left;
-	margin: 30px 50px;
-}
-
-#skills i {
+#skills .row .col {
 	font-size: 10em;
 }
 

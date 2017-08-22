@@ -1,3 +1,3 @@
-$('ul li i').hover(function() {
+$('.skill-icon').hover(function() {
 	$(this).toggleClass('colored');
 });
